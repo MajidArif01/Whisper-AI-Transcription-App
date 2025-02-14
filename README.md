@@ -16,3 +16,4 @@ Python 3.8+ 🐍
 Streamlit 🖥
 Whisper AI Model 🎤
 FFmpeg 🎞
+
